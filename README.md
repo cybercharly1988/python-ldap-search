@@ -34,7 +34,7 @@ onnection.search(
 **Outputs**
 | Name | Description |
 |------|-------------|
-| uid | If we found a coincidence in the ldap user we will have the information UID for the user |
+| uid | If we found a coincidence in the ldap for the user, we will have the information UID for the that user |
 
 ### Notable
 * Nothing to mention yet
